@@ -1,0 +1,3 @@
+package itunesautomationsdk
+
+func New() {}
